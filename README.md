@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(3 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hunter Vaughan)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+Created a tax calulator 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hunterv54.github.io/lesson_5_JS/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Get element by ID )
+2. ( Conecting the html and the js pages )
+3. ( publishing it to git hub )
 
